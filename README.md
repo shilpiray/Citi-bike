@@ -25,3 +25,7 @@ A analysis for the New York Citi Bike Program, in which responsible for overseei
 
 ![riders](riders.png)
 
+
+### 4) Popular location to start
+![location](popular_station.png)
+
